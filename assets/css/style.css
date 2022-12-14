@@ -8,11 +8,11 @@
 /* Element Selectors */
 
 body {
-    background-color: #2a2b2dff;
+    background-color: #d9514eff
 }
 
 header {
-    background-color: #d9514eff;
+    background-color: #2da8d8ff;
     padding-top: 0px;
 }
 
@@ -48,10 +48,15 @@ footer {
 
     padding-bottom: 10px;
     text-align: center;
-    font-style:oblique;
-    background-color: #2da8d8ff;
+    font-weight: 400;
+    background-color: #2a2b2dff;
+    color: white;
+    
 }
 
+h2 {
+    color: white;
+}
 /* ID Selectors */
 
 #binh {
